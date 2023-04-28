@@ -1,0 +1,157 @@
+.logo img{
+    border: 0px solid black;
+    height: 111px;
+    width: 180px;
+    padding: -8px;
+    margin: -8px;
+
+}
+
+ li {
+   display: inline;
+   margin: 0px 20px;
+   font-weight: bold;
+   
+   
+   
+}
+.home{
+    position: absolute;
+    left: 616px;
+    top: 50px;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+}
+.about{
+    position: absolute;
+    left: 747px;
+    top: 50px;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+}
+.portfolio{
+    position: absolute;
+    left: 878px;
+    top: 50px;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+}
+.sevices{
+    position: absolute;
+    left: 1060px;
+    top: 50px;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+}
+.hire{
+    position: absolute;
+left: 1211px;
+    top: 50px;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+
+}
+.position :hover{
+   
+    color: red;
+}
+.detel{
+    border: 0px solid black;
+    position: absolute;
+    margin: 5%;
+    left: 98px;
+
+}
+.detel h1{
+    font-size: 60px;
+    color: black;
+    margin-bottom:  20px;
+}
+span{
+color: orange;
+}
+
+.detel p{
+    color: black ;
+    line-height: 36px;
+    font-weight: bold;
+    font-size:26px ;
+
+} 
+.detel a{
+    background-color: #212122;
+    text-decoration: none;
+    padding: 10px 66px;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+margin :30px 0px;
+border-radius: 7px;
+position: absolute;
+left: 110px;
+
+}
+.images{
+    position: absolute;
+    width: 45px;
+    height: 390px;
+    bottom: 67px;
+    right: 289px;
+
+}
+.images img{
+    border: none;
+    height: 128%;
+    position: absolute;
+    width: 502px;
+    left: -64px;
+    bottom: -28px;
+    transform: translateX(-50%);
+    transition: bottom 1s,left 1s;
+}
+.images2 img{
+    border: none;
+    height: 508px;
+    width: 420px;
+    left:900px;
+    position: absolute;
+
+}
+.images :hover{
+    bottom: 40px;
+
+}
+.linkdin img
+{
+    position: absolute;
+    height: 36px;
+    width: 48px;
+    bottom: 39px;
+    left: 324px;
+
+}
+.git img
+{
+    position: absolute;
+    height: 52px;
+    width: 64px;
+    bottom: 30px;
+    left: 389px;
+
+}
+.insta img
+{
+    position: absolute;
+    height: 36px;
+    width: 48px;
+    bottom: 39px;
+    left: 470px;
+
+}
+
+
